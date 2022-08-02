@@ -1,2 +1,2 @@
-# TinDog
-Simple single web website created only by HTML and CSS
+TinDog website:
+To visit a website please go to: 
